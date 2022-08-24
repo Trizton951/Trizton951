@@ -1,4 +1,4 @@
-Hey! I'm Benjamin AKA Trizton951, currently studying MSc in Applied Physics and Electrics (Y) at Linköping Unversity, Sweden.
+Hey! I'm Benjamin AKA Trizton951, currently studying B.Sc in Applied Physics and Electrics (Y) at Linköping Unversity, Sweden.
 
 In my free time, I like to play around with programming, electronics and tech in general.
 
